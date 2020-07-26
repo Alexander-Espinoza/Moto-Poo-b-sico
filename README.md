@@ -1,3 +1,6 @@
-# Moto-Poo-básico
+# Poo-básico
  
-Ejemplo básico de POO en python
+Ejemplo básico de POO en python 
+Coche
+Moto
+
