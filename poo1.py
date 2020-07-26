@@ -41,7 +41,7 @@ class Coche():
 miCoche=Coche()
 miCoche.arrancar(True,'ok','ok','abiertas')
 
-
+print("HOLA GIT")
 print("-------------------------------------------------")
 miCoche2=Coche()
 miCoche2.arrancar()
